@@ -1,4 +1,11 @@
-
+body{
+    max-width: 980px;
+    background-image: url(../images/pivo.jpg);
+    padding: 0;
+    margin: 0;
+    max-width: 980px;
+     background-repeat: repeat-y;
+}
 .top-menu {
   position: relative; 
   background: black;
@@ -48,7 +55,7 @@
   display: inline-block;
   margin: 2px 5px;
   padding: 8px 15px;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT&nbspSans', sans-serif;
   font-size: 18px;
   color: #777777;
   border-bottom: 1px solid transparent;
@@ -63,16 +70,14 @@
 }
 @media (max-width: 500px) {
   .menu-main li {display: block;}
-  /* закінчилася менюшка */
-
 }
+
 header .banner {
     display: flex;
     justify-content:space-between;
     align-items: center;
     flex-direction: column;
     max-width: 980px;
-    
 }
 
 header .banner .title {
@@ -145,6 +150,5 @@ main .publications-list .article-card .button-container {
     color:#000000;
     text-decoration: none;
 }
-main{
-    max-width: 980px;
-}
+
+
