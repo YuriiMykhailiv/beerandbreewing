@@ -85,6 +85,7 @@ header .banner .title {
     font-family: 'Trade&nbspWinds';   
     text-transform: uppercase;
     color: var(--secondary-color);
+    text-align: center;
 }
 main .publications-list .article-card img {
     display: block;
