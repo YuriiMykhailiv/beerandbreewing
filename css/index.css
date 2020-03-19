@@ -153,3 +153,25 @@ main .publications-list .article-card .button-container {
 }
 
 
+.blog{
+ margin: 4em 0;
+ position: relative; 
+}
+.blog h1{
+ color: Yellow;
+ margin: 2em; 
+}
+.blog .card{
+ box-shadow: 0 0 20px #ccc;
+}
+.blog .card img{
+ width: 100%;
+ height: 20em;
+}
+.blog .card-title{
+ color:yellow;
+  
+}
+.blog .card-body{
+ padding: 1em;
+}
