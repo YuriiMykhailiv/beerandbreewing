@@ -1,10 +1,12 @@
 body{
     max-width: 980px;
-    background-image: 
-    padding: 0;
-    margin: 0;
-    max-width: 980px;
-     background-repeat: repeat-y;
+    background-image: url(../images/back-ground.jpg);
+    background-size:1110px;
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+    background-position: center;
+    background-clip:inherit;
+    background-origin:border-box;
 }
 .top-menu {
   position: relative; 
@@ -174,5 +176,5 @@ main .publications-list .article-card .button-container {
 }
 .blog .card-body{
  padding: 1em;
- height: 200px;
+ height: 250px;
 }
