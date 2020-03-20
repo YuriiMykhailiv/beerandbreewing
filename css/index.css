@@ -174,4 +174,5 @@ main .publications-list .article-card .button-container {
 }
 .blog .card-body{
  padding: 1em;
+ height: 200px;
 }
