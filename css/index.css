@@ -204,7 +204,18 @@ main .publications-list .article-card .button-container {
 }
 #telegram{
   text-decoration: none;
+ color: yellow;
 }
 .aboutme{
   background-image: url(../images/pivo.jpg);
+}
+footer{
+  color: yellow;
+  text-decoration: none;
+  background-image: none;
+  background-color: black;
+}
+#link{
+  text-decoration: none;
+ color: yellow;
 }
