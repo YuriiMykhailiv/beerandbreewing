@@ -183,3 +183,28 @@ main .publications-list .article-card .button-container {
     text-align: left;
     color: yellow;
 }
+.beerpabs{
+  background-image: url(../images/pivo.jpg);
+  height: 750px;
+  width: 700px;
+  
+}
+.beerbrew{
+  background-image: url(../images/pivo.jpg);
+  height: 800px;
+  width: 700px;
+}
+.beersdiferent{
+  background-image: url(../images/pivo.jpg);
+  height: 2200px;
+  width: 1110px;
+  padding : 0;
+  margin: 0;
+
+}
+#telegram{
+  text-decoration: none;
+}
+.aboutme{
+  background-image: url(../images/pivo.jpg);
+}
